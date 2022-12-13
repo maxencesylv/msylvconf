@@ -6,7 +6,7 @@ apt upgrade
 cd ~
 wget https://github.com/maxencesylv/msylvconf/blob/main/competition-point-montagne.tar.gz?raw=true -O  script.tar.gz
 tar -xf script.tar.gz
-python -m ensurepip --upgrade
+apt install python3-venv python3-pip
 pip install requests
 pip install beautifulsoup4
 pip install mysql-connector-python
