@@ -1,5 +1,6 @@
 #!/bin/bash
-echo "deb http://deb.debian.org/debian bullseye main" | tee /etc/apt/sources.list
+echo "deb http://fr.archive.ubuntu.com/ubuntu/ focal universe multiverse" | tee /etc/apt/sources.list
+echo "deb http://fr.archive.ubuntu.com/ubuntu/ focal main restricted" | tee /etc/apt/sources.list
 apt update
 apt upgrade
 cd ~
