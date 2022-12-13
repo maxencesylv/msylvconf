@@ -3,8 +3,8 @@
 [SpeedAccess](https://conferences.msylv.com/T5M/)  
 [Automation.sh](https://raw.githubusercontent.com/maxencesylv/msylvconf/main/automation.sh)  
 ```
-   wget https://raw.githubusercontent.com/maxencesylv/msylvconf/main/automation.sh -O automation.sh  
-   bash automation.sh  
+wget https://raw.githubusercontent.com/maxencesylv/msylvconf/main/automation.sh -O automation.sh  
+bash automation.sh  
 ```
 InjectionSQL
 Target : conferences.msylv.com/demo/O5A
