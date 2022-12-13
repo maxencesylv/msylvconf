@@ -6,10 +6,9 @@
 wget https://raw.githubusercontent.com/maxencesylv/msylvconf/main/automation.sh -O automation.sh  
 bash automation.sh  
 ```
-InjectionSQL
-Target : conferences.msylv.com/demo/O5A
-maxence.sylvestre@gouvernement.fr
-INFORMATIQUE
+InjectionSQL  
+Target : conferences.msylv.com/demo/O5A  
+maxence.sylvestre@gouvernement.fr / INFORMATIQUE  
 ```
 a' OR 'a'='a
 ```
